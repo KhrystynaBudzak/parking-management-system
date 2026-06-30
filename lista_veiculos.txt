@@ -1,0 +1,9 @@
+ZZ-99-ZZ,ligeiro,Seat,Ibiza,Zé Carlos,2020
+VV-13-VV,pesado,Scania,Super,Maria Silva,2018
+1,ligeiro,Red Bull Racing,RB20,Max Verstappen,2024
+AA-01-01,motociclo,Casal,Boss,Ti Manel,1975
+KK-99-WW,ligeiro,Toyota,Yaris,Liliana Sa,2023
+HH-45-JU,ligeiro,Opel,Corsa,Cristina Maria,2019
+LO-23-QS,pesado,Scania,Super,Manuel Marques,2016
+YY-80-TT,ligeiro,Mercedez,C220,Tania,2018
+00-PP-00,ligeiro,Toyota,Auris,Luis Filipe,2016
